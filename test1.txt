@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F2D4-8E6D
+
+ Directory of C:\Users\pinky\Desktop\Mygitproject
+
+07/14/2021  09:34 AM    <DIR>          .
+07/14/2021  09:34 AM    <DIR>          ..
+07/14/2021  09:34 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  353,564,438,528 bytes free
